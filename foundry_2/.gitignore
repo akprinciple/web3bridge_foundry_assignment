@@ -11,13 +11,4 @@ out/
 docs/
 
 # Dotenv file
-foundry_1/.env
-hardhat1/.env
-foundry_2/.env
-hardhat2/.env
 .env
-
-foundry_1/node_modules
-hardhat1/node_modules
-foundry_2/node_modules
-hardhat2/node_modules
